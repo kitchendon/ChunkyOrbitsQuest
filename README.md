@@ -12,6 +12,15 @@ BrainBlinks.com
 
 Changelog:
 
+v0.92 | October 13th, 2019
+
+Small update to fix most of the know issues with the initial release. I would of done all these before release if I thought 350 people would download it in the first 2 days. 
+
+* 'Reboot' orbits should now behave as intended. 
+* Fixed angle or the 'ergonomic' front-pointing line for movement
+* adjusted menu angles 
+* Music player is working again. If you don't like a dong, you can toggle the music off/on to play another random track
+
 v.9 | October 10th, 2019
   * Inital port from PC version of the sim
   * Converted from SteamVR to Oculus SDK
